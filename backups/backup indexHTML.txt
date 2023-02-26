@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Jason's Personal Site</title>
+        <link rel="stylesheet" href="./css/styles.css">
+    </head>
+    <body>
+
+        <table cellspacing="20">
+            <tr>
+                <td><img src="data:image/png;base64,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" alt="Profile Picture"></td>
+                <td><h1>Jason Lukassen</h1>
+                <p><i>Programming enthusiast</i></p>
+                <p>I am a Web developer. I am currently learning how to code by following Dr. Angela's course on Udemy</p>
+                <a href="contact-me.html">Contact me</a></td>
+            </tr>
+        </table>
+
+        
+        
+        
+
+        <hr>
+
+        <h3>Books and Teaching</h3>
+        <ul>
+            <li><a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12287450#announcements">The complete 2023 Web development Bootcamp.</a></li>
+            <li><a href="https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/home">CS50's web development course with Python and Javascript.</a></li>
+            <li>FreeCodeCamp</li>
+        </ul>
+
+        <hr>
+        
+        <h3>Work Experience</h3>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>Dates</th>
+                    <th>Work</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>2022-2023</td>
+                    <td>Retail Worker</td>
+                </tr>
+                <tr>
+                    <td>2024-2025</td>
+                    <td>Freelancing Web development in Maastricht</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <hr>
+
+        <h3>skills</h3>
+
+
+        <table>
+            <table cellspacing="10">
+                <tr>
+                    <td>HTML</td>
+                    <td>⭐⭐⭐⭐⭐</td>
+                </tr>
+                <tr>
+                    <td>CSS</td>
+                    <td>⭐⭐⭐⭐⭐</td>
+                </tr>
+                <tr>
+                    <td>Javascript</td>
+                    <td>⭐⭐</td>
+                </tr>
+        </table>
+
+        <h3>Hobbies</h3>
+        <ul>
+            <li>Learning about the new technoligies in the world</li>
+            <li>Playing and learning piano</li>
+            <li>Playing Chess</li>
+        </ul>
+
+
+
+        
+    </body>
+</html>
